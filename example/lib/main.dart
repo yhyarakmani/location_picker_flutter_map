@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
             print(pickedData.address);
             print(pickedData.addressData);
           },
-          showContributorBadgeForOSM: true,
+          showContributorBadgeForOSM: false,
         ),
       ),
     );

@@ -274,7 +274,7 @@ class FlutterLocationPicker extends StatefulWidget {
     this.showZoomController = true,
     this.showLocationController = true,
     this.showSelectLocationButton = true,
-    this.showCurrentLocationPointer = true,
+    this.showCurrentLocationPointer = false,
     this.selectLocationButtonStyle,
     this.selectLocationButtonWidth,
     this.selectLocationButtonHeight,
